@@ -20,13 +20,17 @@ A CNN-LSTM is an integration of a CNN (Convolutional layers) with an LSTM. First
 
 <br>
 
+**Flowchart of carma**
+
+![image](https://user-images.githubusercontent.com/73103188/176588336-741b4b77-134a-4f50-9797-5d3ad23ba17f.png)
+
  **Demo Video of Carma**
 
 https://user-images.githubusercontent.com/73103188/176587208-aa1dac0a-ef95-4404-bc74-f62bd88292a2.mp4
 
  **Explanation**
  
- The video which has to be classified will be fed into the site of carma. The model is run on it and the output will be downloaded, which is the labelled version of the input video, being classified into fight/no-fight.
+ The video which has to be classified will be fed into the site of carma. The LRCN model is run on it and the output will be downloaded, which is the labelled version of the input video, being classified into fight/no-fight.
  
  **Future Enhancements**
 
