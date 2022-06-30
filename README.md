@@ -32,6 +32,10 @@ https://user-images.githubusercontent.com/73103188/176587208-aa1dac0a-ef95-4404-
  
  The video which has to be classified will be fed into the site of carma. The LRCN model is run on it and the output will be downloaded, which is the labelled version of the input video, being classified into fight/no-fight.
  
+ **Accuracy Achieved**
+ 73.33% using LRCN
+ 64.57% using ConvLSTM
+ 
  **Future Enhancements**
 
 • We will connect our model to a cctv system for realtime violence detection.\
